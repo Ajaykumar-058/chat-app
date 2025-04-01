@@ -4,9 +4,6 @@ ChatApp is a real-time chat application built with Spring Boot (Java 21), WebSoc
 
 ## Features
 - **Real-time Messaging**: Instant messaging using WebSocket and STOMP.
-- **Private Chats**: One-on-one messaging.
-- **Group Chats**: Chat rooms for group conversations.
-- **Message History**: Access recent messages in a chat.
 
 ## Technologies Used
 - **Spring Boot (Java 21)**: For backend development.
